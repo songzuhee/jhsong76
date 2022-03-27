@@ -1,4 +1,10 @@
 <img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF4154?style=flat-square&logo=Gmail&logoColor=white"/>
+
+👩 Hi there! I', studying computer Enginerring in Sungshin.w.University.💜 
+
+I'm a big fan of K-dramas.📺
+I hope to develop everything in the world.🎇
 
 # 💪Skills
 
