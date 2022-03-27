@@ -3,7 +3,7 @@
 
 👩 Hi there! I', studying computer Enginerring in Sungshin.w.University.💜 
 
-I'm a big fan of K-dramas.📺
+I'm a big fan of K-dramas.📺   
 I hope to develop everything in the world.🎇
 
 # 💪Skills
