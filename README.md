@@ -21,7 +21,6 @@ Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=default)
 
- ** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:20190976@sungshin.ac.kr)](mailto:20190976@sungshin.ac.kr)**
 	
 <!--
 **jhsong76/jhsong76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
