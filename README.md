@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=songjuhee&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=radical)
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:20190976@sungshin.ac.kr)](mailto:20190976@sungshin.ac.kr)
+ ** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:20190976@sungshin.ac.kr)](mailto:20190976@sungshin.ac.kr)**
 	
 <!--
 **jhsong76/jhsong76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
