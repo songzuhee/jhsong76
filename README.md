@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-FF4154?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👩 Hi there! I', studying computer Enginerring in Sungshin.w.University.💜 
 
