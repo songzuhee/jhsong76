@@ -1,10 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=songjuhee&fontSize=90&animation=fadeIn&fontAlignY=38)
+<img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"/>
+
+# 💪Skills
+
+Languages
+
 
 <img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+
+# 💎Me💎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=default)
 
