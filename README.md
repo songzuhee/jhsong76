@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=songjuhee&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+<img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=default)
 
  ** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:20190976@sungshin.ac.kr)](mailto:20190976@sungshin.ac.kr)**
