@@ -1,15 +1,12 @@
 <img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-👩 Hi there! I'm studying computer Enginerring in Sungshin.W.University.💜 
+👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
 
 I'm a big fan of K-dramas.📺   
 I hope to develop everything in the world.🎇
 
 # 💪Skills
-
-Languages
-
 
 <img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
