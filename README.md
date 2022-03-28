@@ -1,4 +1,4 @@
-<a href="[<https://blog.naver.com/wngml203]" target=<img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"></a>
+<a href="[<https://blog.naver.com/wngml203]" target="<img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
