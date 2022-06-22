@@ -1,7 +1,8 @@
 <a href="https://blog.naver.com/wngml203" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"></a>
 <a href="mailto:20190976@sungshin.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
+### 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsong76)](https://hits.seeyoufram.com)
 
 I'm a big fan of K-dramas.📺   
 I hope to develop everything in the world.🎇
