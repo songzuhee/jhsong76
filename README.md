@@ -3,8 +3,7 @@
 <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsong76)](https://hits.seeyoufram.com)
 
 ### 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
-  
-I'm a big fan of K-dramas.📺   
+    
 I hope to develop everything in the world.🎇
   
 # 💪Skills
