@@ -4,7 +4,7 @@
 
 ### 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
     
-I hope to develop everything in the world.🎇
+I hope to develop everything in the world.🎇  
   
 # 💪Skills
 
