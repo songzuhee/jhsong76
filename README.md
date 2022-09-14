@@ -1,4 +1,4 @@
-<a href="https://blog.naver.com/wngml203" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"></a>
+<!--<a href="https://blog.naver.com/wngml203" target="_blank"><img src="https://img.shields.io/badge/Blog-FF4154?style=flat-square&logo=Undertale&logoColor=white"></a>
 <a href="mailto:20190976@sungshin.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhsong76)](https://hits.seeyoufram.com)
 
@@ -11,8 +11,9 @@ I hope to develop everything in the world.🎇
 <img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-F01F7A?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 # 💎Me💎
   
@@ -32,3 +33,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
+    
+ 🎇 I hope to develop everything in the world.🎇  
+
+
