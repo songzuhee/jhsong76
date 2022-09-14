@@ -16,7 +16,7 @@ I hope to develop everything in the world.🎇
 
 # 💎Me💎
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=radical)
 
 	
 <!--
