@@ -17,11 +17,6 @@ I hope to develop everything in the world.🎇
 # 💎Me💎
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=radical)
-
-<details>
-<summary>:zap: Github Stats </summary>
-https://github-readme-stats.vercel.app/api?username=jhsong76&show_icons=true&theme=radical
-<img align="left" alt="jhsong76's Github stats" src="https://github-readme-stats.jhsong76.vercel.app/api?username=jhsong76&show_icons=true&hide_border=true" />
 	
 <!--
 **jhsong76/jhsong76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
