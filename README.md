@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
+### 👩 Hi there! I'm studying Computer Engineering in Sungshin.W.University.💜 
     
- 🎇 I hope to develop everything in the world.🎇  
+ I hope to develop everything in the world.🎇  
 
 
